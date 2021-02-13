@@ -2,14 +2,16 @@
 # PROJECT OVERVIEW
  Using Linear Regression to advise a Ecommerce company that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website. Using Linear Regression to study the correlations between the different factors and how they affect the how much the customer spends.
  
- #OBJECTIVES
+ OBJECTIVES
+ 
 The objective of the project is that, as the company is aiming to focus their effort on taking orders of clothing from their  mobile app  or website is feasible. So the project here Predicts the Yearly amount Spent by the customers on ordering Clothing on Mobile Application or on Website using Linear Regression model. And also finding the correlation between each of  their independent variables. And finally predicting whether the company is good to go with mobile app or the website.
 
-#INTRODUCTION
+INTRODUCTION
+
 Machine Learning is a sub-area of artificial intelligence, whereby the term refers to the ability of IT systems to independently find solutions to problems by recognizing patterns in databases. In other words: Machine Learning enables IT systems to recognize patterns on the basis of existing algorithms and datasets and to develop adequate solution concepts. Therefore, in Machine Learning, artificial knowledge is generated on the basis of experience. In order to enable the software to independently generate solutions, the prior action of people is necessary. For example, the required algorithms and data must be fed into the systems in advance and the respective analysis rules for the recognition of patterns in the data stock must be defined.
 Linear regression is a basic and commonly used type of predictive analysis.  The overall idea of regression is to examine two things: (1) does a set of predictor variables do a good job in predicting an outcome (dependent) variable?  (2) Which variables in particular are significant predictors of the outcome variable, and in what way do they–indicated by the magnitude and sign of the beta estimates–impact the outcome variable?  These regression estimates are used to explain the relationship between one dependent variable and one or more independent variables.
 
-#THE 7 STEPS IN MACHINE LEARNING
+THE 7 STEPS IN MACHINE LEARNING
 
 STEP 1: GATHERING DATA
 

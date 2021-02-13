@@ -44,6 +44,39 @@ STEP 7: PREDICTION
 
 The final step of the machine learning process is prediction. This is the stage where we consider the model to be ready for practical applications. The model gains independence from human interference and draws its own conclusion on the basis of its data sets and training. The challenge for the model remains whether it can outperform or at least match human judgment in different relevant scenarios.
 
+REGRESSION
+
+Regression is analysis consists of set of machine learning methods that allow us to predict outcome variable(y) based on the value of one or multiple predictor variable(x). The goal of regression model is to build a mathematical equation that defines y as a function of the x variables.
+For ex: Predicting prices of a house given the features of house like size, price etc is one of the common example of Regression and it is supervised  technique.
+
+LINEAR REGRESSION 
+
+Linear regression is one of the easiest and most popular Machine Learning algorithms. It is a statistical method that is used for predictive analysis. Linear regression makes predictions for continuous/real or numeric variables such as sales, salary, age, product price, etc.
+ 	Linear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables, hence called as linear regression. Since linear regression shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable. The linear regression model provides a sloped straight line representing the relationship between the variables. Consider the below image:
+
+Figure 3.4.1: Linear Regression
+Mathematically, we can represent a linear regression as:
+y= a0+a1x+ ε
+Y= Dependent Variable (Target Variable)
+X= Independent Variable (predictor Variable)
+a0= intercept of the line (Gives an additional degree of freedom)
+a1 = Linear regression coefficient (scale factor to each input value).
+ε = random error
+
+The values for x and y variables are training datasets for Linear Regression model representation.
+
+Types of Linear Regression
+
+Linear regression can be further divided into two types of the algorithm:
+
+Simple Linear Regression:
+
+If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
+
+Multiple Linear regression:
+
+If more than one independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Multiple Linear Regression.
+
 OUTPUT
 
 ![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/relationship%20of%20each%20col.png)

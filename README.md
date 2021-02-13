@@ -62,4 +62,9 @@ Description: The above snapshot shows the construction of joint plot to compare 
 
 Description: The above snapshots shows the construction of joint plot to compare the data of time on app and Yearly Amount Spent. Here by looking at the graph we can see the data are quite linear when compared to time on website.
 
+![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/yearly%20vvs%20member.png)
+
+Description: The above snapshots shows the Linear model plot of Yearly Amount Spent vs Length of Membership. Here by looking at the graph we can see as data of Length of membership increases the data of Yearly Amount Spent increases that exactly what linear regression has to be. And also we have quite good linear regression graph. 
+
 ![]()
+

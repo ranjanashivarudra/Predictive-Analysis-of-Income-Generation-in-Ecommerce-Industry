@@ -53,8 +53,9 @@ LINEAR REGRESSION
 
 Linear regression is one of the easiest and most popular Machine Learning algorithms. It is a statistical method that is used for predictive analysis. Linear regression makes predictions for continuous/real or numeric variables such as sales, salary, age, product price, etc.
  	Linear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables, hence called as linear regression. Since linear regression shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable. The linear regression model provides a sloped straight line representing the relationship between the variables. Consider the below image:
+  
+  ![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/LR.png)
 
-Figure 3.4.1: Linear Regression
 Mathematically, we can represent a linear regression as:
 y= a0+a1x+ ε
 Y= Dependent Variable (Target Variable)

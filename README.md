@@ -66,5 +66,9 @@ Description: The above snapshots shows the construction of joint plot to compare
 
 Description: The above snapshots shows the Linear model plot of Yearly Amount Spent vs Length of Membership. Here by looking at the graph we can see as data of Length of membership increases the data of Yearly Amount Spent increases that exactly what linear regression has to be. And also we have quite good linear regression graph. 
 
+![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/Predicted%20value%20vs%20Real%20test%20value.png)
+
+Description:  The above snapshots shows the construction of scatter plot  between Predicted value and Real test value. Here the graph looks almost linear and hence the real test values are almost close to predicted values.
+
 ![]()
 

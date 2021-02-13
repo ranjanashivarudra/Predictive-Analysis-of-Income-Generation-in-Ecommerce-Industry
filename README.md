@@ -45,4 +45,4 @@ STEP 7: PREDICTION
 The final step of the machine learning process is prediction. This is the stage where we consider the model to be ready for practical applications. The model gains independence from human interference and draws its own conclusion on the basis of its data sets and training. The challenge for the model remains whether it can outperform or at least match human judgment in different relevant scenarios.
 
 OUTPUT
-
+![](heatmap corr.png)

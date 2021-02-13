@@ -70,5 +70,12 @@ Description: The above snapshots shows the Linear model plot of Yearly Amount Sp
 
 Description:  The above snapshots shows the construction of scatter plot  between Predicted value and Real test value. Here the graph looks almost linear and hence the real test values are almost close to predicted values.
 
-![]()
+![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/coefficient.png)
+
+Description: The above snapshots shows the Coefficients for each of the independent variables. Here you can see among Time on App and Time on Website, Time on App has greater coefficient than Time on Website. Hence Time on App is what the Company has to choose for the betterment of their company.
+
+CONCLUSION
+
+As the project is completely based on whether the company needs to focus their effort on marketing their clothing on company’s App or website, by looking at their financial graph which among App or website will increase their company’s financial growth. From Snapshot coeeficient.png we can say that, holding all other features fixed, a 1 unit increase in, Avg. Session Length will lead to an increase in $25.981550 in Yearly Amount Spent, and similarly holding all other features fixed, a 1 unit increase in, Time on App will lead to an increase in $38.590159 in Yearly Amount Spent and holding all other features fixed, a 1 unit increase in, Time on Website will lead to an increase in $0.190405 in Yearly Amount Spent.
+So as Time on App is a much more significant factor than Time on Website, the company has a choice: they could either focus all the attention into the App as that is what is bringing the most money in, or they could focus on the Website as it is performing so poorly!
 

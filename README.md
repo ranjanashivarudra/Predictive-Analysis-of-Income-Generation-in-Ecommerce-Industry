@@ -58,4 +58,8 @@ Description: This snapshot shows the construction of Heatmap of pairwise correla
 
 Description: The above snapshot shows the construction of joint plot to compare the data of time on website and Yearly Amount Spent. Here by looking at the graph we can see the data are not linear they look completely scattered.
 
+![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/yearly%20vs%20app.png)
+
+Description: The above snapshots shows the construction of joint plot to compare the data of time on app and Yearly Amount Spent. Here by looking at the graph we can see the data are quite linear when compared to time on website.
+
 ![]()

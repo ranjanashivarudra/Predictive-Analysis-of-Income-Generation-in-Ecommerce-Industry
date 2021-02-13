@@ -46,4 +46,3 @@ The final step of the machine learning process is prediction. This is the stage 
 
 OUTPUT
 
-![](heatmap corr.png)

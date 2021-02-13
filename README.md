@@ -46,4 +46,10 @@ The final step of the machine learning process is prediction. This is the stage 
 
 OUTPUT
 
+![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/relationship%20of%20each%20col.png)
+Description: The above snapshot shows the output for the relationship between each of the columns. Here each grid shows that each variable in data will be shared in Y-axis across a single row and in x-axis across a single column.
+
 ![](https://github.com/ranjanashivarudra/Predictive-Analysis-of-Income-Generation-in-Ecommerce-Industry/blob/main/heatmap%20corr.png)
+Description: This snapshot shows the construction of Heatmap of pairwise correlation of all columns. Here you can observe there is a strong correlation between length of Membership and Yearly Amount Spent.
+
+
